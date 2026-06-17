@@ -44,8 +44,6 @@ body.dark-mode select{
     border:none;
 }
 
-/* Drop down */
-
 body.dark-mode .dropdown-menu{
     background:#2d2d2d;
 }
